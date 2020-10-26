@@ -17,6 +17,12 @@
 
 </br>
 
+<p align="center"> 
+ <strong>
+  Github Stats
+  </strong>
+</p>
+
 <p align="center">
  <a href="#" alt="Alireza Salary's github stats"><img src="https://github-readme-stats.vercel.app/api?username=arsmn&show_icons=true&theme=radical&hide_title=true" /></a>
 </p>
