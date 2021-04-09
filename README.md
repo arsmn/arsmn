@@ -1,4 +1,4 @@
-<img align="right" width="274" height="237" src="https://www.pinclipart.com/picdir/big/571-5718253_golang-gopher-png-clipart.png">
+<img align="right" width="274" height="237" src="https://github.com/arsmn/arsmn/blob/main/gopher.png">
 
 # Hi, I'm Alireza Salary <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -15,4 +15,4 @@
 [![WhatsApp URL](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/E2TIHYSTWJ7AM1)
 [![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ar_s_mn)
 
-![Valchan's github stats](https://github-readme-stats.vercel.app/api?username=arsmn&show_icons=true&theme=radical)
+![Valchan's github stats](https://github-readme-stats.vercel.app/api?username=arsmn&show_icons=true&theme=algolia&include_all_commits=true)
