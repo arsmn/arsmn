@@ -1,19 +1,18 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<img align="right" width="274" height="237" src="https://www.pinclipart.com/picdir/big/571-5718253_golang-gopher-png-clipart.png">
 
-<p align="center"> 
- <strong>
-  Interested in
-  </strong>
-</p>
+# Hi, I'm Alireza Salary <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p align="center"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="43" height="43" />
-</p>
-<p align="center">
- <a href="#" alt="Alireza Salary's github stats"><img src="https://github-readme-stats.vercel.app/api?username=arsmn&show_icons=true&theme=radical&hide_title=true" /></a>
-</p>
+- 🔭 I'm currently working as a freelancer Software Developer
+- 😎 I'm currently contributing to [GopherChat](https://github.com/GopherChat)
+- 🌏 I'm from Iran
+
+
+## How to reach me :mailbox_with_no_mail:
+
+[![Linkedin URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsmn/)
+[![GitHub URL](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arsmn/)
+[![Telegram URL](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ar_s_mn/)
+[![WhatsApp URL](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/E2TIHYSTWJ7AM1)
+[![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ar_s_mn)
+
+![Valchan's github stats](https://github-readme-stats.vercel.app/api?username=arsmn&show_icons=true&theme=radical)
