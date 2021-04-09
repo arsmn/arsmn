@@ -1,4 +1,4 @@
-<img align="right" width="274" height="237" src="https://repository-images.githubusercontent.com/104261253/9b12d380-7570-11e9-9bab-1bf0e44fa7ee">
+<img align="right" width="300" height="237" src="https://github.com/arsmn/arsmn/blob/main/magician_gopher.png">
 
 # Hi, I'm Alireza Salary <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
