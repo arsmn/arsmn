@@ -16,6 +16,7 @@
 [![Gmail URL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arsmn1996@gmail.com)
 [![Telegram URL](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ar_s_mn/)
 
-## My GitHub Stats :bar_chart:
+##
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=arsmn&show_icons=true&theme=algolia&include_all_commits=true&hide_title=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=arsmn&show_icons=true&theme=github_dark&include_all_commits=true&custom_title=GitHub%20Stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsmn&hide=css,html&theme=github_dark)
