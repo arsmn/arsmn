@@ -19,4 +19,4 @@
 ##
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=arsmn&show_icons=true&theme=github_dark&include_all_commits=true&custom_title=GitHub%20Stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsmn&hide=css,html&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsmn&hide=css,html&theme=github_dark&layout=compact)
