@@ -1,6 +1,6 @@
 <img align="right" width="235" src="https://github.com/arsmn/arsmn/blob/main/magician_gopher.png">
 
-# Hi, I'm Alireza Salary <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, I'm Alireza Salary <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 - 🔭 I'm currently working as a freelancer Software Developer
 - 😎 I'm currently contributing to [GopherChat](https://github.com/GopherChat)
