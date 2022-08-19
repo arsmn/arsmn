@@ -2,12 +2,7 @@
 
 # Hi, I'm Alireza Salary <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-- 🔭 I'm currently working as a freelancer Software Developer
-- 😎 I'm currently contributing to [GopherChat](https://github.com/GopherChat)
-- 🌏 I'm from Iran
-
-
-## How to reach me :mailbox_with_no_mail:
+How to reach me :mailbox_with_no_mail:
 
 [![Linkedin URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsmn/)
 [![Stackoverflow URL](https://img.shields.io/badge/Stackoverflow-ef8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/6775534/arsmn)
