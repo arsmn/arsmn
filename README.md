@@ -9,7 +9,7 @@ How to reach me :mailbox_with_no_mail:
 [![Outlook URL](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:alireza.salary@outlook.com)
 [![Gmail URL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arsmn1996@gmail.com)
 [![Skype URL](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/cnPrQHsw3q2t)
-[![Telegram URL](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ar_s_mn/)
+[![Telegram URL](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arsmn1/)
 
 ##
 
