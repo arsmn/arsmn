@@ -7,8 +7,7 @@ How to reach me :mailbox_with_no_mail:
 [![Linkedin URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsmn/)
 [![Stackoverflow URL](https://img.shields.io/badge/Stackoverflow-ef8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/6775534/arsmn)
 [![Outlook URL](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:alireza.salary@outlook.com)
-[![Gmail URL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arsmn1996@gmail.com)
-[![Skype URL](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/cnPrQHsw3q2t)
+[![Gmail URL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alireza.salary.mn97@gmail.com)
 [![Telegram URL](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arsmn1/)
 
 ##
